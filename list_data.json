@@ -1,22 +1,40 @@
 {
 	"movies": [
 		{
-			"Title": "Lost In Translation",
-			"Director": "Sofia Coppola",
-			"Rating": "R",
-			"Year": "2003"
+			"Activity": "Napping",
+			"Name": "Coconut",
+			"Description": "Coconut naps to save her energy for the outdoors",
+			"Rating (Out of 10)": "5",
+			"Date": "1/5/2023"
 		},
 		{
-			"Title": "Casino Royale",
-			"Director": "Martin Campbell",
-			"Rating": "PG-13",
-			"Year": "2006"
+			"Activity": "Play",
+			"Name": "Moon",
+			"Description": "Moon passes the time playing with Coconut",
+			"Rating (Out of 10)": "9",
+			"Date": "2/19/2023"
 		},
 		{
-			"Title": "The Dark Knight",
-			"Director": "Christopher Nolan",
-			"Rating": "PG-13",
-			"Year": "2008"
-		}
+			"Activity": "Barking at stranger!",
+			"Name": "Moon",
+			"Description": "Moon barks at the stranger at the door, she protects the house!",
+			"Rating (Out of 10)": "5",
+			"Date": "4/13/2023"
+		},
+		{
+			"Activity": "Squirrel Watching",
+			"Name": "Coconut and Moon",
+			"Description": "Coconnut and Moon stares intensely at the squirrel who is taunting them from the tree branch. One day it will be theirs.",
+			"Rating (Out of 10)": "10",
+			"Date": "4/19/2023"
+		},
+		{
+			"Activity": "Getting scritches from Mom",
+			"Name": "Coconut and Moon",
+			"Description": "Make silly stretchy lip face when getting stritches.",
+			"Rating (Out of 10)": "10",
+			"Date": "5/1/2023"
+		},
+
 	]
 }
